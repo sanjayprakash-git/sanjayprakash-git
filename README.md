@@ -11,4 +11,4 @@ I've built two businesses, including scaling a brand from a single push cart to 
 
 **Tools:** Python · SQL · Power BI · Tableau · Excel · scikit-learn · n8n
 
-🌐 [Portfolio](https://sanjayprakash-git.github.io/portfolio/) · 💼 [LinkedIn](https://linkedin.com/in/sanjay-prakash-a92291186)
+🌐 [Portfolio](https://sanjayprakash.vercel.app/) · 💼 [LinkedIn](https://linkedin.com/in/sanjay-prakash-a92291186)
